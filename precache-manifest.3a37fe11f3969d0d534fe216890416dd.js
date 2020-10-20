@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb58c2686744111ad22b2bb9308bed6b",
+    "revision": "138a21511e2030e9c911b6b7ef3ab7e7",
     "url": "/rocco-gh/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rocco-gh/static/css/2.31039caa.chunk.css"
   },
   {
-    "revision": "e483e7a89fb46f033fb1",
-    "url": "/rocco-gh/static/css/main.c358af76.chunk.css"
+    "revision": "7f6991fd75f022069cce",
+    "url": "/rocco-gh/static/css/main.4e3b5a20.chunk.css"
   },
   {
     "revision": "5c45a91c67f09d9d3fdb",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rocco-gh/static/js/2.79264902.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e483e7a89fb46f033fb1",
-    "url": "/rocco-gh/static/js/main.2a676d3b.chunk.js"
+    "revision": "7f6991fd75f022069cce",
+    "url": "/rocco-gh/static/js/main.a36dd3b3.chunk.js"
   },
   {
     "revision": "125c9800dca4e0908732",
