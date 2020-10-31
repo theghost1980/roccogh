@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/rocco-gh/static/css/main.6352c78e.chunk.css",
-    "main.js": "/rocco-gh/static/js/main.07ee8e11.chunk.js",
-    "main.js.map": "/rocco-gh/static/js/main.07ee8e11.chunk.js.map",
+    "main.css": "/rocco-gh/static/css/main.d8155d0b.chunk.css",
+    "main.js": "/rocco-gh/static/js/main.aed13592.chunk.js",
+    "main.js.map": "/rocco-gh/static/js/main.aed13592.chunk.js.map",
     "runtime-main.js": "/rocco-gh/static/js/runtime-main.409860b1.js",
     "runtime-main.js.map": "/rocco-gh/static/js/runtime-main.409860b1.js.map",
     "static/css/2.7995f3ed.chunk.css": "/rocco-gh/static/css/2.7995f3ed.chunk.css",
-    "static/js/2.c3dbe182.chunk.js": "/rocco-gh/static/js/2.c3dbe182.chunk.js",
-    "static/js/2.c3dbe182.chunk.js.map": "/rocco-gh/static/js/2.c3dbe182.chunk.js.map",
+    "static/js/2.42e480ce.chunk.js": "/rocco-gh/static/js/2.42e480ce.chunk.js",
+    "static/js/2.42e480ce.chunk.js.map": "/rocco-gh/static/js/2.42e480ce.chunk.js.map",
     "index.html": "/rocco-gh/index.html",
-    "precache-manifest.805049cf0908e6c4ea0554aca4177462.js": "/rocco-gh/precache-manifest.805049cf0908e6c4ea0554aca4177462.js",
+    "precache-manifest.bf6043f699a7ef24b691474598b75010.js": "/rocco-gh/precache-manifest.bf6043f699a7ef24b691474598b75010.js",
     "service-worker.js": "/rocco-gh/service-worker.js",
     "static/css/2.7995f3ed.chunk.css.map": "/rocco-gh/static/css/2.7995f3ed.chunk.css.map",
-    "static/css/main.6352c78e.chunk.css.map": "/rocco-gh/static/css/main.6352c78e.chunk.css.map",
-    "static/js/2.c3dbe182.chunk.js.LICENSE.txt": "/rocco-gh/static/js/2.c3dbe182.chunk.js.LICENSE.txt",
+    "static/css/main.d8155d0b.chunk.css.map": "/rocco-gh/static/css/main.d8155d0b.chunk.css.map",
+    "static/js/2.42e480ce.chunk.js.LICENSE.txt": "/rocco-gh/static/js/2.42e480ce.chunk.js.LICENSE.txt",
     "static/media/CV-English-Rocco-Mangieri.pdf": "/rocco-gh/static/media/CV-English-Rocco-Mangieri.31e9677b.pdf",
     "static/media/DOSSIER-Rocco-Mangieri.pdf": "/rocco-gh/static/media/DOSSIER-Rocco-Mangieri.3df34228.pdf",
     "static/media/FELS-logo-copy.png": "/rocco-gh/static/media/FELS-logo-copy.957ef6a8.png",
@@ -21,7 +21,7 @@
     "static/media/index.css": "/rocco-gh/static/media/NotoSerifKR-Medium.55d8ef7a.otf",
     "static/media/img_not_available.png": "/rocco-gh/static/media/img_not_available.cead1c02.png",
     "static/media/contact.module.css": "/rocco-gh/static/media/main-3-copy.50a6b644.jpg",
-    "static/media/main-cover-copy.png": "/rocco-gh/static/media/main-cover-copy.c8e1e7a2.png",
+    "static/media/welcome.module.css": "/rocco-gh/static/media/main-cover-copy.c8e1e7a2.png",
     "static/media/about.module.css": "/rocco-gh/static/media/main-cover2 copy.cd179e18.jpg",
     "static/media/work.module.css": "/rocco-gh/static/media/main-cover3-copy.e0a85514.jpg",
     "static/media/bookspapers.module.css": "/rocco-gh/static/media/susan-yin-2JIvboGLeho-unsplash-copy.d5fb7415.jpg"
@@ -29,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.409860b1.js",
     "static/css/2.7995f3ed.chunk.css",
-    "static/js/2.c3dbe182.chunk.js",
-    "static/css/main.6352c78e.chunk.css",
-    "static/js/main.07ee8e11.chunk.js"
+    "static/js/2.42e480ce.chunk.js",
+    "static/css/main.d8155d0b.chunk.css",
+    "static/js/main.aed13592.chunk.js"
   ]
 }
