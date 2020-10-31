@@ -1,39 +1,37 @@
 {
   "files": {
-    "main.css": "/rocco-gh/static/css/main.5ed284dc.chunk.css",
-    "main.js": "/rocco-gh/static/js/main.b614071f.chunk.js",
-    "main.js.map": "/rocco-gh/static/js/main.b614071f.chunk.js.map",
+    "main.css": "/rocco-gh/static/css/main.6352c78e.chunk.css",
+    "main.js": "/rocco-gh/static/js/main.08136c23.chunk.js",
+    "main.js.map": "/rocco-gh/static/js/main.08136c23.chunk.js.map",
     "runtime-main.js": "/rocco-gh/static/js/runtime-main.409860b1.js",
     "runtime-main.js.map": "/rocco-gh/static/js/runtime-main.409860b1.js.map",
     "static/css/2.7995f3ed.chunk.css": "/rocco-gh/static/css/2.7995f3ed.chunk.css",
     "static/js/2.c3dbe182.chunk.js": "/rocco-gh/static/js/2.c3dbe182.chunk.js",
     "static/js/2.c3dbe182.chunk.js.map": "/rocco-gh/static/js/2.c3dbe182.chunk.js.map",
     "index.html": "/rocco-gh/index.html",
-    "precache-manifest.f346a72f4db1312eadf0e891fa0f7369.js": "/rocco-gh/precache-manifest.f346a72f4db1312eadf0e891fa0f7369.js",
+    "precache-manifest.01b5ba874236076613279a843147d9bd.js": "/rocco-gh/precache-manifest.01b5ba874236076613279a843147d9bd.js",
     "service-worker.js": "/rocco-gh/service-worker.js",
     "static/css/2.7995f3ed.chunk.css.map": "/rocco-gh/static/css/2.7995f3ed.chunk.css.map",
-    "static/css/main.5ed284dc.chunk.css.map": "/rocco-gh/static/css/main.5ed284dc.chunk.css.map",
+    "static/css/main.6352c78e.chunk.css.map": "/rocco-gh/static/css/main.6352c78e.chunk.css.map",
     "static/js/2.c3dbe182.chunk.js.LICENSE.txt": "/rocco-gh/static/js/2.c3dbe182.chunk.js.LICENSE.txt",
     "static/media/100px-React.svg.png": "/rocco-gh/static/media/100px-React.svg.02fc7434.png",
-    "static/media/AFS-logo.png": "/rocco-gh/static/media/AFS-logo.d34fe6a0.png",
-    "static/media/AISS-logo.jpg": "/rocco-gh/static/media/AISS-logo.f3b62ec3.jpg",
     "static/media/CV-English-Rocco-Mangieri.pdf": "/rocco-gh/static/media/CV-English-Rocco-Mangieri.31e9677b.pdf",
     "static/media/DOSSIER-Rocco-Mangieri.pdf": "/rocco-gh/static/media/DOSSIER-Rocco-Mangieri.3df34228.pdf",
-    "static/media/FELS-logo.png": "/rocco-gh/static/media/FELS-logo.bb32bb85.png",
-    "static/media/IASS-AIS-logo.jpg": "/rocco-gh/static/media/IASS-AIS-logo.c5c1f52f.jpg",
+    "static/media/FELS-logo-copy.png": "/rocco-gh/static/media/FELS-logo-copy.3036f78d.png",
+    "static/media/IASS-AIS-logo-copy.jpg": "/rocco-gh/static/media/IASS-AIS-logo-copy.7670bab4.jpg",
     "static/media/index.css": "/rocco-gh/static/media/NotoSerifKR-Medium.55d8ef7a.otf",
     "static/media/img_not_available.png": "/rocco-gh/static/media/img_not_available.cead1c02.png",
-    "static/media/contact.module.css": "/rocco-gh/static/media/main-3.e8d26456.jpg",
+    "static/media/contact.module.css": "/rocco-gh/static/media/main-3-copy.50a6b644.jpg",
     "static/media/main-cover-copy.png": "/rocco-gh/static/media/main-cover-copy.c8e1e7a2.png",
-    "static/media/about.module.css": "/rocco-gh/static/media/main-cover2.e5703caa.jpg",
-    "static/media/work.module.css": "/rocco-gh/static/media/main-cover3.9da269d9.jpg",
-    "static/media/bookspapers.module.css": "/rocco-gh/static/media/susan-yin-2JIvboGLeho-unsplash.6f0ab60d.jpg"
+    "static/media/about.module.css": "/rocco-gh/static/media/main-cover2 copy.cd179e18.jpg",
+    "static/media/work.module.css": "/rocco-gh/static/media/main-cover3-copy.e0a85514.jpg",
+    "static/media/bookspapers.module.css": "/rocco-gh/static/media/susan-yin-2JIvboGLeho-unsplash-copy.d5fb7415.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.409860b1.js",
     "static/css/2.7995f3ed.chunk.css",
     "static/js/2.c3dbe182.chunk.js",
-    "static/css/main.5ed284dc.chunk.css",
-    "static/js/main.b614071f.chunk.js"
+    "static/css/main.6352c78e.chunk.css",
+    "static/js/main.08136c23.chunk.js"
   ]
 }
