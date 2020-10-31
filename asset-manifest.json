@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rocco-gh/static/css/main.5ed284dc.chunk.css",
-    "main.js": "/rocco-gh/static/js/main.d3c06162.chunk.js",
-    "main.js.map": "/rocco-gh/static/js/main.d3c06162.chunk.js.map",
+    "main.js": "/rocco-gh/static/js/main.b614071f.chunk.js",
+    "main.js.map": "/rocco-gh/static/js/main.b614071f.chunk.js.map",
     "runtime-main.js": "/rocco-gh/static/js/runtime-main.409860b1.js",
     "runtime-main.js.map": "/rocco-gh/static/js/runtime-main.409860b1.js.map",
     "static/css/2.7995f3ed.chunk.css": "/rocco-gh/static/css/2.7995f3ed.chunk.css",
     "static/js/2.c3dbe182.chunk.js": "/rocco-gh/static/js/2.c3dbe182.chunk.js",
     "static/js/2.c3dbe182.chunk.js.map": "/rocco-gh/static/js/2.c3dbe182.chunk.js.map",
     "index.html": "/rocco-gh/index.html",
-    "precache-manifest.433fb7b3c0ff81d6c20bc3ca664fbecc.js": "/rocco-gh/precache-manifest.433fb7b3c0ff81d6c20bc3ca664fbecc.js",
+    "precache-manifest.f346a72f4db1312eadf0e891fa0f7369.js": "/rocco-gh/precache-manifest.f346a72f4db1312eadf0e891fa0f7369.js",
     "service-worker.js": "/rocco-gh/service-worker.js",
     "static/css/2.7995f3ed.chunk.css.map": "/rocco-gh/static/css/2.7995f3ed.chunk.css.map",
     "static/css/main.5ed284dc.chunk.css.map": "/rocco-gh/static/css/main.5ed284dc.chunk.css.map",
@@ -24,7 +24,7 @@
     "static/media/index.css": "/rocco-gh/static/media/NotoSerifKR-Medium.55d8ef7a.otf",
     "static/media/img_not_available.png": "/rocco-gh/static/media/img_not_available.cead1c02.png",
     "static/media/contact.module.css": "/rocco-gh/static/media/main-3.e8d26456.jpg",
-    "static/media/main-cover.png": "/rocco-gh/static/media/main-cover.8ea85770.png",
+    "static/media/main-cover-copy.png": "/rocco-gh/static/media/main-cover-copy.c8e1e7a2.png",
     "static/media/about.module.css": "/rocco-gh/static/media/main-cover2.e5703caa.jpg",
     "static/media/work.module.css": "/rocco-gh/static/media/main-cover3.9da269d9.jpg",
     "static/media/bookspapers.module.css": "/rocco-gh/static/media/susan-yin-2JIvboGLeho-unsplash.6f0ab60d.jpg"
@@ -34,6 +34,6 @@
     "static/css/2.7995f3ed.chunk.css",
     "static/js/2.c3dbe182.chunk.js",
     "static/css/main.5ed284dc.chunk.css",
-    "static/js/main.d3c06162.chunk.js"
+    "static/js/main.b614071f.chunk.js"
   ]
 }
