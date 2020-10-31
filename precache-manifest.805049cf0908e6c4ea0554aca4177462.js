@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "88291e461bb432cb792ca6da9f2bbb58",
+    "revision": "c6aebac97fd75baefacd999ef4043d46",
     "url": "/rocco-gh/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rocco-gh/static/css/2.7995f3ed.chunk.css"
   },
   {
-    "revision": "443ef8a53e730a1fd15d",
+    "revision": "41382eb6a2f12f2e2bdf",
     "url": "/rocco-gh/static/css/main.6352c78e.chunk.css"
   },
   {
@@ -20,16 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rocco-gh/static/js/2.c3dbe182.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "443ef8a53e730a1fd15d",
-    "url": "/rocco-gh/static/js/main.08136c23.chunk.js"
+    "revision": "41382eb6a2f12f2e2bdf",
+    "url": "/rocco-gh/static/js/main.07ee8e11.chunk.js"
   },
   {
     "revision": "125c9800dca4e0908732",
     "url": "/rocco-gh/static/js/runtime-main.409860b1.js"
-  },
-  {
-    "revision": "02fc7434f13ee85d00e4379c8a138cce",
-    "url": "/rocco-gh/static/media/100px-React.svg.02fc7434.png"
   },
   {
     "revision": "31e9677ba177e3db35185a52b37f45aa",
@@ -40,12 +36,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rocco-gh/static/media/DOSSIER-Rocco-Mangieri.3df34228.pdf"
   },
   {
-    "revision": "3036f78da50834b8763acfa2d9599295",
-    "url": "/rocco-gh/static/media/FELS-logo-copy.3036f78d.png"
+    "revision": "957ef6a82b927ef6cdb501fdfad7f2b5",
+    "url": "/rocco-gh/static/media/FELS-logo-copy.957ef6a8.png"
   },
   {
-    "revision": "7670bab4c498cbeb4818683a6bdb22c5",
-    "url": "/rocco-gh/static/media/IASS-AIS-logo-copy.7670bab4.jpg"
+    "revision": "a59549353e3e35a7e4d4ba306fb9778e",
+    "url": "/rocco-gh/static/media/IASS-AIS-logo-copy.a5954935.jpg"
   },
   {
     "revision": "fba3dd1e1779b81102523044c60a0319",

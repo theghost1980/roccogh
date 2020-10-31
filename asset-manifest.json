@@ -1,24 +1,23 @@
 {
   "files": {
     "main.css": "/rocco-gh/static/css/main.6352c78e.chunk.css",
-    "main.js": "/rocco-gh/static/js/main.08136c23.chunk.js",
-    "main.js.map": "/rocco-gh/static/js/main.08136c23.chunk.js.map",
+    "main.js": "/rocco-gh/static/js/main.07ee8e11.chunk.js",
+    "main.js.map": "/rocco-gh/static/js/main.07ee8e11.chunk.js.map",
     "runtime-main.js": "/rocco-gh/static/js/runtime-main.409860b1.js",
     "runtime-main.js.map": "/rocco-gh/static/js/runtime-main.409860b1.js.map",
     "static/css/2.7995f3ed.chunk.css": "/rocco-gh/static/css/2.7995f3ed.chunk.css",
     "static/js/2.c3dbe182.chunk.js": "/rocco-gh/static/js/2.c3dbe182.chunk.js",
     "static/js/2.c3dbe182.chunk.js.map": "/rocco-gh/static/js/2.c3dbe182.chunk.js.map",
     "index.html": "/rocco-gh/index.html",
-    "precache-manifest.01b5ba874236076613279a843147d9bd.js": "/rocco-gh/precache-manifest.01b5ba874236076613279a843147d9bd.js",
+    "precache-manifest.805049cf0908e6c4ea0554aca4177462.js": "/rocco-gh/precache-manifest.805049cf0908e6c4ea0554aca4177462.js",
     "service-worker.js": "/rocco-gh/service-worker.js",
     "static/css/2.7995f3ed.chunk.css.map": "/rocco-gh/static/css/2.7995f3ed.chunk.css.map",
     "static/css/main.6352c78e.chunk.css.map": "/rocco-gh/static/css/main.6352c78e.chunk.css.map",
     "static/js/2.c3dbe182.chunk.js.LICENSE.txt": "/rocco-gh/static/js/2.c3dbe182.chunk.js.LICENSE.txt",
-    "static/media/100px-React.svg.png": "/rocco-gh/static/media/100px-React.svg.02fc7434.png",
     "static/media/CV-English-Rocco-Mangieri.pdf": "/rocco-gh/static/media/CV-English-Rocco-Mangieri.31e9677b.pdf",
     "static/media/DOSSIER-Rocco-Mangieri.pdf": "/rocco-gh/static/media/DOSSIER-Rocco-Mangieri.3df34228.pdf",
-    "static/media/FELS-logo-copy.png": "/rocco-gh/static/media/FELS-logo-copy.3036f78d.png",
-    "static/media/IASS-AIS-logo-copy.jpg": "/rocco-gh/static/media/IASS-AIS-logo-copy.7670bab4.jpg",
+    "static/media/FELS-logo-copy.png": "/rocco-gh/static/media/FELS-logo-copy.957ef6a8.png",
+    "static/media/IASS-AIS-logo-copy.jpg": "/rocco-gh/static/media/IASS-AIS-logo-copy.a5954935.jpg",
     "static/media/index.css": "/rocco-gh/static/media/NotoSerifKR-Medium.55d8ef7a.otf",
     "static/media/img_not_available.png": "/rocco-gh/static/media/img_not_available.cead1c02.png",
     "static/media/contact.module.css": "/rocco-gh/static/media/main-3-copy.50a6b644.jpg",
@@ -32,6 +31,6 @@
     "static/css/2.7995f3ed.chunk.css",
     "static/js/2.c3dbe182.chunk.js",
     "static/css/main.6352c78e.chunk.css",
-    "static/js/main.08136c23.chunk.js"
+    "static/js/main.07ee8e11.chunk.js"
   ]
 }
